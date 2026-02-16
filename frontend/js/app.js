@@ -3,7 +3,7 @@
 // ENGSE207 - Week 6 Docker Version
 // ============================================
 
-const API_BASE = 'https://week7-production-e630.up.railway.app/';
+const API_BASE = 'week7-production.up.railway.app';
 
 // ============================================
 // API Functions
